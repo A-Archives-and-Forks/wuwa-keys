@@ -7,6 +7,7 @@ To use these AES keys in [FModel](https://fmodel.app/), configure the **AES Endp
 - **Endpoint:** https://yarik0chka.github.io/wuwa-keys/keys.json
 - **Expression:** `$['mainKey', 'dynamicKeys']`
 
+0. Make sure **UE Versions** is set to `GAME_WutheringWaves`.
 1. Go to **Settings → Endpoint Configuration → AES**.
 2. Input values from above.
 3. Click **Test**, then **OK**.
